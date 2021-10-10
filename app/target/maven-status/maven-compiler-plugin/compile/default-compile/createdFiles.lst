@@ -1,2 +1,2 @@
-com/ms/app/controller/HealthController.class
-com/ms/app/AppApplication.class
+com/kuber/app/AppApplication.class
+com/kuber/app/controller/HealthController.class
