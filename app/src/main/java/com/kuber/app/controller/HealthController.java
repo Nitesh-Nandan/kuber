@@ -1,6 +1,6 @@
-package com.ms.app.controller;
+package com.kuber.app.controller;
 
-import com.ms.common.constants.APIPath;
+import com.kuber.common.constants.APIPath;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ResponseStatus;

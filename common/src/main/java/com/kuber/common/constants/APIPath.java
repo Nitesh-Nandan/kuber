@@ -1,4 +1,4 @@
-package com.ms.common.constants;
+package com.kuber.common.constants;
 
 import lombok.experimental.UtilityClass;
 

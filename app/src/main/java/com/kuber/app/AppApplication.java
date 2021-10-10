@@ -1,4 +1,4 @@
-package com.ms.app;
+package com.kuber.app;
 
 
 import lombok.extern.slf4j.Slf4j;

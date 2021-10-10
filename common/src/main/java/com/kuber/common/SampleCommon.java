@@ -1,4 +1,4 @@
-package com.ms.common;
+package com.kuber.common;
 
 public class SampleCommon {
 }

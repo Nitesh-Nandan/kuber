@@ -1,4 +1,4 @@
-package com.ms.dao;
+package com.kuber.dao;
 
 public class SampleDao {
 }

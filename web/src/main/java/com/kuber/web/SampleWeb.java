@@ -1,4 +1,4 @@
-package com.ms.web;
+package com.kuber.web;
 
 public class SampleWeb {
 }
